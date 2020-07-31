@@ -1,2 +1,2 @@
-# URIsolution in Python 3  
+# URIs
 URI Online judge solution
